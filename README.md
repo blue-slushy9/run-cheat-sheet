@@ -1,1 +1,1 @@
-# run-cheat-sheet
+This is a cheat-sheet of Windows Run commands to help me remember. Some of them will also work on cmd, PowerShell, and Windows Terminal; but not all of them.
